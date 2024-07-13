@@ -12,6 +12,13 @@ Git commands used:
 10. To set the username and token
    git remote set-url origin https://username:token@github.com/PoojaFirmware/CPrograms.git
 11. git push origin main
+12. For error with yellow colour patch
+   1. git pull origin main
+   2. git pull
+   3. git pull origin main --ff -only -fast forwarded
+   4. git pull origin main --no-rebase
+   5. solve the merge conflicts and commit through the vscode left side.
+   6. git push
 
 
 Programs 
@@ -52,3 +59,13 @@ Programs
 7. Date, time & year 
    1. Leap program 
    2. Extract last 2 digit of a given year
+
+
+Programs from Exercise
+1. Accept 2 numbers, if the 1st number is greater than 2nd number then print the difference else print 
+   sum of 2 sum numbers using ternary operator.
+2. Write a program that aacepts marks in 5 subjects and calculates the total percentage in marks.
+3. Write a program to accept any number and print the value of reimander after dividing it by 3.
+4. write a program for sizeof operator
+5. Write a program for radius of circle of area and permeter
+6. Write a program to Convert a temperature in celsius into fahrenheit
