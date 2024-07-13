@@ -16,7 +16,7 @@ Git commands used:
 
 Programs 
 
-1. Hello World Programs
+1. Hello World Programs.
    Different ways:
       1. Main function
       2. Function call
