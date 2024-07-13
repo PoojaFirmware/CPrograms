@@ -1,4 +1,5 @@
-// Bitwise AND with conditional operator
+// Even and odd Program Bitwise AND with conditional operator
+
 #include <stdio.h>
 int main()
 {

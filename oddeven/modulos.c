@@ -1,3 +1,5 @@
+// Even and odd Program using modulos or standard apporach
+
 #include <stdio.h>
 int main()
 {

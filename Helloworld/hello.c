@@ -1,3 +1,5 @@
+// Hello world Program with standard apporach
+
 // The main function for hello world
 // complication steps
 // 1. gcc hello.c -o hello

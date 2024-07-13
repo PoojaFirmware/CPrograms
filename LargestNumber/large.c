@@ -1,4 +1,4 @@
-// Largest NUmber among 3 numbers using if and else statment only.
+// Largest Number among 3 numbers Program using if and else statment only.
 
 #include <stdio.h>
 int main()

@@ -1,3 +1,5 @@
+// Even and odd Program using conditional operator and arithmetic method
+
 #include <stdio.h>
 int main()
 {

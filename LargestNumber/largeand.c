@@ -1,4 +1,4 @@
-// Largest NUmber among 3 numbers using Logical AND statement.
+// Largest Number among 3 numbers Program using Logical AND statement.
 
 #include <stdio.h>
 int main()

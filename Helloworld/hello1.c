@@ -1,3 +1,5 @@
+// Hello world program using functions
+
 // The function call into the main for hello world
 // complication steps
 // 1. gcc hello1.c -o hello1
