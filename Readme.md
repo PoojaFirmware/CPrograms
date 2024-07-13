@@ -11,12 +11,12 @@ Git commands used:
 9. git push --set-upstream origin main
 10. To set the username and token
    git remote set-url origin https://username:token@github.com/PoojaFirmware/CPrograms.git
-   git push origin main
+11.git push origin main
 
 
 Programs 
 
-1. Hello World Programs
+1. Hello World Programs.
    Different ways:
       1. Main function
       2. Function call
