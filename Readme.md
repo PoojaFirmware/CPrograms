@@ -54,14 +54,27 @@ Programs
 3. Check if 2 numbers are equal
 
 4. Sum of digits of a number
+   Different ways:
+   1. Using while loop
+   2. Using for loop without temporary variable
+   3. Using for loop with temporary variable
+
 5. Increment by 1 to all the digits of a given integer
 6. print a multiplication of table
-7. Date, time & year 
+
+
+# Day 4
+1. Product of digits 
+   Different ways:
+   1. Using while loop
+   2. Using for loop
+
+2. Date, time & year 
    1. Leap program 
-   2. Extract last 2 digit of a given year
+      1. Using if and else 
 
 
-Programs from Exercise
+# Programs from Exercise
 1. Accept 2 numbers, if the 1st number is greater than 2nd number then print the difference else print 
    sum of 2 sum numbers using ternary operator.
 2. Write a program that aacepts marks in 5 subjects and calculates the total percentage in marks.
