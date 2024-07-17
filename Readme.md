@@ -62,7 +62,6 @@ Programs
 5. Increment by 1 to all the digits of a given integer
 6. print a multiplication of table
 
-
 # Day 4
 1. Product of digits 
    Different ways:
@@ -73,6 +72,10 @@ Programs
    1. Leap program 
       1. Using if and else 
 
+# Day 5
+1. Reverse of Number
+   1. Using while loop
+   2. Without using loops, functions, recurrsions, strings
 
 # Programs from Exercise
 1. Accept 2 numbers, if the 1st number is greater than 2nd number then print the difference else print 

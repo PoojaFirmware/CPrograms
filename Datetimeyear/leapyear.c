@@ -1,4 +1,4 @@
-// Leap year using if statement
+// Leap year using if and else statement
 
 #include <stdio.h>
 int main()
