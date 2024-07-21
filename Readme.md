@@ -1,5 +1,6 @@
 # Day1
-Git commands used:
+
+# Git commands used:
 1. git init
 2. git add filenames/ git add . (all files will be added)
 3. git status
@@ -20,17 +21,14 @@ Git commands used:
    5. solve the merge conflicts and commit through the vscode left side.
    6. git push
 
-
-Programs 
+# Programs 
 
 1. Hello World Programs.
-   Different ways:
       1. Main function
       2. Function call
 
 2. Even and Odd Programs
    Concept: Any number is divide by 2 and remainder is 0 is even and if remainder is 1 is odd
-   Different ways:
       1. Modulos operator
       2. Conditional operator
       3. Bitwise AND operator
@@ -41,12 +39,10 @@ Programs
 
 # Day 3
 1. Largest Number among 3 numbers Programs
-   Different ways:
       1. Using if and else statement
       2. Logical AND
  
 2. Swap 2 numbers Programs
-   Different ways:
       1. Using temporary variable
       2. Using Arithmetric operations without using temporary variables
       3. Using Bitwise XOR without using temporary variables
@@ -54,7 +50,6 @@ Programs
 3. Check if 2 numbers are equal
 
 4. Sum of digits of a number
-   Different ways:
    1. Using while loop
    2. Using for loop without temporary variable
    3. Using for loop with temporary variable
@@ -64,7 +59,6 @@ Programs
 
 # Day 4
 1. Product of digits 
-   Different ways:
    1. Using while loop
    2. Using for loop
 
@@ -76,6 +70,10 @@ Programs
 1. Reverse of Number
    1. Using while loop
    2. Without using loops, functions, recurrsions, strings
+
+# Day 6 
+1. Decimal to binary, octal, hexadecimal
+2. binary, octal, hexadecimal to decimal
 
 # Programs from Exercise
 1. Accept 2 numbers, if the 1st number is greater than 2nd number then print the difference else print 
