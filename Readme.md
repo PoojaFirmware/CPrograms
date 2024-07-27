@@ -75,6 +75,13 @@
 1. Decimal to binary, octal, hexadecimal
 2. binary, octal, hexadecimal to decimal
 
+# Important concepts
+1. Regarding return 
+   1. return 0; : Indicates successful execution.
+   2. return 1; : Indicates an error occurred.
+   3. return -1;: Indicates a specific type of error or abnormal termination.
+   4. return;   : Used in functions with void return type, not valid in main.
+
 # Programs from Exercise
 1. Accept 2 numbers, if the 1st number is greater than 2nd number then print the difference else print 
    sum of 2 sum numbers using ternary operator.
@@ -83,3 +90,12 @@
 4. write a program for sizeof operator
 5. Write a program for radius of circle of area and permeter
 6. Write a program to Convert a temperature in celsius into fahrenheit
+7. Program to find out the grades of a student when the arks of 4 subjects are given:
+   precentage >= 85                       - grade A
+   precentage < 85 and percentage >= 70   - grade B
+   precentage < 70 and percentage >= 55   - grade C
+   precentage < 55 and percentage >= 40   - grade D
+   precentage < 40                        - grade E
+8. Print numbers from 1 to 10 using while loop.
+9. Program to count digits in a number
+
