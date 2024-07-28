@@ -75,6 +75,11 @@
 1. Decimal to binary, octal, hexadecimal
 2. binary, octal, hexadecimal to decimal
 
+# Day 7 
+1. Factorial Program using Iterative apporach and Recursive apporach
+2. Prime Numbers 
+3. Fibonacci series
+
 # Important concepts
 1. Regarding return 
    1. return 0; : Indicates successful execution.
