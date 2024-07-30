@@ -80,6 +80,14 @@
 2. Prime Numbers 
 3. Fibonacci series
 
+# Day 8
+1. Multiple two number without using *
+2. Comma operator
+   1. For loop
+   2. Using function of 2 digits 
+3. Armstrong Program 
+4. Sum of terms
+
 # Important concepts
 1. Regarding return 
    1. return 0; : Indicates successful execution.
