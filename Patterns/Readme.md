@@ -1,25 +1,110 @@
 # Patterns
 1. Right traingle
-   1. for loop
-   2. while loop
-   3. do while loop
 
-2. Inverted traingle
-   1. for loop
-   2. while loop
-   3. do while loop
+
+2. Inverted right aliged traingle
+   Patterns with numbers, star, alphabets
+
+   *****
+    ****
+     ***
+      **
+       *
+
+   11111
+    2222
+     333
+      44
+       5
+
+   00000
+    1111
+     222
+      33
+       4
+
+   12345
+    1234
+     123
+      12
+       1
+
+   01234
+    0123
+     012
+      01
+       0
+     
+   AAAAA
+    BBBB
+     CCC
+      DD
+       E
+
+   ABCDE
+    ABCD
+     ABC
+      AB
+       A
 
 3. Arrow 
    1. Right arrow - for loop
+        *
+***********
+*************
+***********
+        *
    2. Double arrow - for loop
+  *               *
+ *******************
+*********************
+ *******************
+  *               *
    3. Up and down arrow - using functions & for loop
+  *
+ ***
+*****
+ ***
+ ***
+ ***
+ ***
+
+ ***
+ ***
+ ***
+ ***
+*****
+ ***
+  *
+
 
 4. Hourglass
    1. Hourglass - Using 2 pyamids
+      ***********
+       *********
+        *******
+         *****
+          ***
+           *
+           *
+          ***
+         *****
+        *******
+       *********
+      ***********
 
 5. Circle
    1. Full circle
    2. Hollow circle
+
+    * * *     
+  *       *   
+*           * 
+*           * 
+*           * 
+  *       *   
+    * * *  
+
 
 6. Alphabets
    ### General apporaches this
