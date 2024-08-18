@@ -1,3 +1,34 @@
+// Pattern list
+// *****
+// ****
+// ***
+// **
+// *
+
+// 55555
+// 4444
+// 333
+// 22
+// 1
+
+// 12345
+// 1234
+// 123
+// 12
+// 1
+
+// AAAAA
+// BBBB
+// CCC
+// DD
+// E
+
+// ABCDE
+// ABCD
+// ABC
+// AB
+// A
+
 #include <stdio.h>
 int startriangle(int rows)
 {
@@ -64,57 +95,6 @@ int alphabetrowtriangle(int rows)
     }
 }
 
-int rightalignedinvertedtriangle(int rows)
-{
-    int i, j;
-    for(i = 0; i < rows; i++)
-    {
-        for(j = 0; j < i; j++)
-        {
-            printf(" ");
-        }
-        for(j = 0; j < rows - i; j++)
-        {
-            printf("*");
-        }
-        printf("\n");
-    }
-}
-
-int rightalignednumbertriangle(int rows)
-{
-    int i, j;
-    for(i = 0; i < rows; i++)
-    {
-        for(j = 0; j < i; j++)
-        {
-            printf(" ");
-        }
-        for(j = 0; j < rows - i; j++)
-        {
-            printf("%d", i);
-        }
-        printf("\n");
-    }
-}
-
-int rightnumbercoltriangle(int rows)
-{
-    int i, j;
-    for(i = 0; i < rows; i++)
-    {
-        for(j = 0; j < i; j++)
-        {
-            printf(" ");
-        }
-        for(j = 0; j < rows - i; j++)
-        {
-            printf("%d", j);
-        }
-        printf("\n");
-    }
-}
-
 int main()
 {
     int i, j, rows;
@@ -126,9 +106,6 @@ int main()
     int numbercolprint = numbercoltriangle(rows);
     int alphabetrowprint = alphabetrowtriangle(rows);
     int alphabetcolprint = alphabetcoltriangle(rows);
-    int rightaligedinvertedprint = rightalignedinvertedtriangle(rows);
-    int rightaligednumberprint = rightalignednumbertriangle(rows);
-    int rightaligedcolprint = rightnumbercoltriangle(rows);
 
     return 0;
 }

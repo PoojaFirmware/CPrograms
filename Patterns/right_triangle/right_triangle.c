@@ -1,4 +1,42 @@
 // Right angle triangle using various ways.
+// Patterns list are 
+
+// *
+// **
+// ***
+// ****
+// *****
+
+// A
+// BB
+// CCC
+// DDDD
+// EEEEE
+// FFFFFF
+
+// 1
+// 22
+// 333
+// 4444
+// 55555
+
+// 1
+// 12
+// 123
+// 1234
+// 12345
+
+// 2
+// 34
+// 456
+// 5678
+// 678910
+
+// 0
+// 10
+// 010
+// 1010
+// 01010
 
 #include <stdio.h>
 int starrighttriangle(int rows)
@@ -86,7 +124,6 @@ int alphabetrighttraingle(int rows)
         alphabet++;
     }
 }
-
 
 int main()
 {

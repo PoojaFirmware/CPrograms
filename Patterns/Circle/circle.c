@@ -1,6 +1,24 @@
 //Program to print circle and hollow circle
 // execution step: gcc -o circle circle.c -lm
 
+//Hollow circle 
+//     * * *     
+//   *       *   
+// *           * 
+// *           * 
+// *           * 
+//   *       *   
+//     * * *  
+
+// Full circle
+//     * * *     
+//   * * * * *   
+// * * * * * * * 
+// * * * * * * * 
+// * * * * * * * 
+//   * * * * *   
+//     * * * 
+  
 #include <stdio.h>
 #include <math.h>
 
@@ -15,8 +33,8 @@ void circle (int r)
             x = i - r;
             y = j - r;
             distance = sqrt(x * x + y * y);
-            //if (distance <= r + 0.5 && distance <= r + 0.5 ) //Prints whole circle with stars
-            if (fabs(distance - r) < 0.5) //Prints hollow circle
+            if (distance <= r + 0.5 && distance <= r + 0.5 ) //Prints whole circle with stars
+            //if (fabs(distance - r) < 0.5) //Prints hollow circle
             {
                 printf("* ");
             }
