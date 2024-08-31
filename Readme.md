@@ -88,6 +88,10 @@
 3. Armstrong Program 
 4. Sum of terms
 
+# Day 9
+1. Storage class: Auto, Extern, Static, Register
+2. Enum 
+
 # Important concepts
 1. Regarding return 
    1. return 0; : Indicates successful execution.
