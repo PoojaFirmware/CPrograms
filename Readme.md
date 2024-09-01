@@ -95,6 +95,10 @@
 # Day 10
 1. Preprocessor 
 
+# Day 11
+1. Arrays
+
+
 # Important concepts
 1. Regarding return 
    1. return 0; : Indicates successful execution.
