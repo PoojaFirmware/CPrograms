@@ -98,6 +98,9 @@
 # Day 11
 1. Arrays
 
+# Day 12
+1. Reverse of array
+2. Largest and smallest in array
 
 # Important concepts
 1. Regarding return 
