@@ -97,6 +97,7 @@
 
 # Day 11
 1. Arrays
+2. 1D, 2D array
 
 # Day 12
 1. Reverse of array
