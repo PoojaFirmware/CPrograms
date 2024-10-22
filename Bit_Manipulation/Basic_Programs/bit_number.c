@@ -5,7 +5,6 @@
 // 4. Check if the i-th bit is set
 // 5. Turn off the rightmost set bit
 // 6. Find the rightmost set bit of a number
-//
 
 #include<stdio.h>
 
