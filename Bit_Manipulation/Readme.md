@@ -92,13 +92,13 @@ Bit manipulation is a powerful technique for optimizing code, especially when wo
 24. **Implement a bitwise AND of numbers in a given range `[m, n]`**
     - **Hint**: Clear the rightmost bits that differ between `m` and `n`.
 
-25. **Convert a decimal number to binary without using a built-in method**
-    - **Hint**: Use division and modulus operations in a loop.
-
-26. **Find the next power of 2 greater than or equal to a given number**
+25. **Find the next power of 2 greater than or equal to a given number**
     - **Hint**: Use a bit manipulation trick to shift bits.
 
-27. **Rotate bits of a number to the left or right**
+26. **Convert a decimal number to binary without using a built-in method**
+    - **Hint**: Use division and modulus operations in a loop.
+
+---- 27. **Rotate bits of a number to the left or right**
     - **Hint**: Use shifts and `|` to wrap bits around.
 
 28. **Check if a number is a multiple of 3 using bit manipulation**
@@ -153,10 +153,7 @@ Bit manipulation is a powerful technique for optimizing code, especially when wo
 43. **Implement a method to reverse only a portion of the bits within a number**
     - **Hint**: Mask the portion, reverse it, and merge back.
 
-44. **Check if the binary representation of a number is a palindrome**
-    - **Hint**: Reverse the bits and compare.
-
-45. **Subtract two numbers using only bitwise operations**
+44. **Subtract two numbers using only bitwise operations**
     - **Hint**: Use two’s complement and addition logic.
 
 ---
