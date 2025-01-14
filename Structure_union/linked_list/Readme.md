@@ -74,6 +74,7 @@ This guide provides a comprehensive list of interview questions focused on linke
 1. **Insert at Specific Position**: Insert a node at a given position.
 2. **Delete at Specific Position**: Delete a node at a specified position.
 3. **Split List**: Split the list into two halves.
+
 4. **Merge Two Sorted Lists**: Merge two sorted doubly linked lists.
 5. **Remove Duplicates**: Remove duplicate nodes.
 6. **Nth Node from End**: Find the nth node from the end.
@@ -130,5 +131,7 @@ This guide provides a comprehensive list of interview questions focused on linke
 8. **Convert to Doubly Linked List**: Convert the circular list into a doubly linked list.
 9. **Circular Buffer Implementation**: Implement a circular buffer using a circular list structure.
 
+
+**Note: For 2 to 3 years prepare for basic to Intermediate questions**
 ## Conclusion
 
