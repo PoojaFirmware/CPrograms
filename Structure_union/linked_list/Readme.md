@@ -38,10 +38,9 @@ This guide provides a comprehensive list of interview questions focused on linke
 1. **Insert at a Specific Position**: Insert a node at a given position.
 2. **Delete at a Specific Position**: Delete a node at a given position.
 3. **Find Middle Node**: Find the middle node in one traversal.
-4. **Detect Loop**: Detect if there’s a cycle/loop.
-5. **Remove Duplicates**: Remove duplicate nodes from a sorted list.
-6. **Merge Two Sorted Lists**: Merge two sorted linked lists.
-
+4. **Detect Loop**: Detect if there’s a cycle/loop. **Hint: Middle node program is mostly same**
+5. **Remove Duplicates**: Remove duplicate nodes from a sorted list. 
+6. **Merge Two Sorted Lists**: Merge two sorted linked lists. **Hint: Merge sorting program**
 7. **Nth Node from End**: Find the nth node from the end.
 8. **Check Palindrome**: Check if the list is a palindrome.
 9. **Split Linked List**: Split the list into two halves.
@@ -49,17 +48,13 @@ This guide provides a comprehensive list of interview questions focused on linke
 
 ### Advanced Questions
 1. **Reverse in Groups of K**: Reverse the list in groups of `k` nodes.
-2. **Sort Linked List**: Sort the list using merge sort.
-3. **Clone with Random Pointers**: Clone a list where nodes have `next` and `random` pointers.
-4. **Swap Adjacent Nodes**: Swap every two adjacent nodes.
-5. **Rotate Linked List**: Rotate the list by `k` nodes.
-6. **Intersection and Union**: Find the intersection and union of two lists.
-7. **Delete Alternate Nodes**: Delete alternate nodes in the list.
-8. **Detect and Remove Loop**: Detect and remove a loop.
-9. **Multiply Two Lists**: Multiply two numbers represented as linked lists.
-10. **Sort in O(n log n)**: Sort the linked list using an efficient algorithm.
-
----
+2. **Clone with Random Pointers**: Clone a list where nodes have `next` and `random` pointers.
+3. **Swap Adjacent Nodes**: Swap every two adjacent nodes.
+4. **Rotate Linked List**: Rotate the list by `k` nodes.
+5. **Intersection and Union**: Find the intersection and union of two lists.
+6. **Delete Alternate Nodes**: Delete alternate nodes in the list.
+7. **Detect and Remove Loop**: Detect and remove a loop.
+8. **Multiply Two Lists**: Multiply two numbers represented as linked lists.
 
 ## 2. Doubly Linked List Questions
 
@@ -88,18 +83,15 @@ This guide provides a comprehensive list of interview questions focused on linke
 10. **Convert Binary to Decimal**: Convert a binary number represented in a doubly linked list to decimal.
 
 ### Advanced Questions
-1. **Sort List**: Sort the list using merge sort.
-2. **Reverse in Groups of K**: Reverse the list in groups of `k`.
-3. **Flatten Multilevel List**: Flatten a multilevel doubly linked list with child pointers.
-4. **Intersection of Two Lists**: Find the intersection of two doubly linked lists.
-5. **Union of Two Lists**: Create a union of two doubly linked lists.
-6. **Delete Alternate Nodes**: Delete every alternate node.
-7. **Rotate and Reverse**: Rotate the list and then reverse it.
-8. **Clone List with Random Pointers**: Clone a doubly linked list with next and random pointers.
-9. **Find Pairs with Sum**: Find pairs in a sorted list with a specific sum.
-10. **Subtract Two Lists**: Subtract two numbers represented as doubly linked lists.
-
----
+1. **Reverse in Groups of K**: Reverse the list in groups of `k`.
+2. **Flatten Multilevel List**: Flatten a multilevel doubly linked list with child pointers.
+3. **Intersection of Two Lists**: Find the intersection of two doubly linked lists.
+4. **Union of Two Lists**: Create a union of two doubly linked lists.
+5. **Delete Alternate Nodes**: Delete every alternate node.
+6. **Rotate and Reverse**: Rotate the list and then reverse it.
+7. **Clone List with Random Pointers**: Clone a doubly linked list with next and random pointers.
+8. **Find Pairs with Sum**: Find pairs in a sorted list with a specific sum.
+9. **Subtract Two Lists**: Subtract two numbers represented as doubly linked lists.
 
 ## 3. Circular Linked List Questions
 
@@ -112,7 +104,7 @@ This guide provides a comprehensive list of interview questions focused on linke
 6. **Delete First Node**: Delete the first node.
 7. **Delete Last Node**: Delete the last node.
 8. **Search in List**: Search for a specific value.
-9. **Split List**: Split the circular list into two circular lists.
+9. **Split List**: Split the circular list into two circular lists. && **Split Circular List into Halves**: Split into two equal or nearly equal parts.
 10. **Convert to Singly Linked List**: Convert the circular linked list to a singly linked list.
 
 ### Intermediate Questions
@@ -132,15 +124,11 @@ This guide provides a comprehensive list of interview questions focused on linke
 2. **Find Intersection of Two Circular Lists**: Find the intersection point, if any.
 3. **Delete Alternate Nodes**: Delete alternate nodes in the circular list.
 4. **Multiply Two Numbers**: Multiply two numbers represented as circular linked lists.
-5. **Split Circular List into Halves**: Split into two equal or nearly equal parts.
-6. **Sort Circular List**: Sort the circular list in ascending order.
-7. **Clone Circular List with Random Pointers**: Clone a circular list where nodes have random pointers.
-8. **Find Pairs with Sum in Circular List**: Find pairs of nodes that sum up to a given value.
-9. **Convert to Doubly Linked List**: Convert the circular list into a doubly linked list.
-10. **Circular Buffer Implementation**: Implement a circular buffer using a circular list structure.
-
----
+5. **Sort Circular List**: Sort the circular list in ascending order.
+6. **Clone Circular List with Random Pointers**: Clone a circular list where nodes have random pointers.
+7. **Find Pairs with Sum in Circular List**: Find pairs of nodes that sum up to a given value.
+8. **Convert to Doubly Linked List**: Convert the circular list into a doubly linked list.
+9. **Circular Buffer Implementation**: Implement a circular buffer using a circular list structure.
 
 ## Conclusion
 
-This guide covers essential operations for singly, doubly, and circular linked lists, from basic manipulations to complex algorithms. Practice these to strengthen your understanding and prepare for C programming interviews.

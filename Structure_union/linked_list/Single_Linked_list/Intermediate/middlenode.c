@@ -73,7 +73,7 @@ void printlist(struct node* head)
 
 int main()
 {
-       // Creating a sample linked list 1 -> 2 -> 3 -> 4 -> 5 -> NULL
+    // Creating a sample linked list 1 -> 2 -> 3 -> 4 -> 5 -> NULL
     struct node* head = createNode(1);
     head->next = createNode(2);
     head->next->next = createNode(3);
@@ -81,7 +81,7 @@ int main()
     head->next->next->next->next = createNode(5);
 
     printf("Original List: ");
-    printList(head);
+    printlist(head);
 
     // Finding the middle node
     struct node* middle = findMiddleNode(head);

@@ -18,3 +18,4 @@
 14. **Extracting Specific Fields from a Packed Integer**
 15. **Setting Specific Bits in a Packed Integer - single bit(bit manipulation) & multiple bit**
 16. **Write a program for packing and unpacking 4 characters in a 32 integers**
+17. **Find the most significant byte (MSB) of a number using bitwise operations, Hint: Use shifts and masks to isolate the  top byte**
