@@ -97,27 +97,30 @@ This guide provides a comprehensive list of interview questions focused on linke
 
 ### Basic Questions
 1. **Create Circular Linked List**: Define a circular linked list and create a simple list with a few nodes.
-2. **Insert at Beginning**: Insert a node at the beginning.
-3. **Insert at End**: Insert a node at the end.
-4. **Display List**: Display all elements in the circular list.
-5. **Count Nodes**: Count the number of nodes.
+   **Display List**: Display all elements in the circular list. (It covers in above question with display function).
+2. **Insertion in an empty List**: Insertion in an empty List in the circular linked list.
+3. **Insert at Beginning**: Insert a node at the beginning. 
+4. **Insert at End**: Insert a node at the end.
+5. **Insert at Specific Position**: Insert a node at a specified position.
 6. **Delete First Node**: Delete the first node.
 7. **Delete Last Node**: Delete the last node.
-8. **Search in List**: Search for a specific value.
-9. **Split List**: Split the circular list into two circular lists. && **Split Circular List into Halves**: Split into two equal or nearly equal parts.
-10. **Convert to Singly Linked List**: Convert the circular linked list to a singly linked list.
+8. **Delete at Specific Position**: Delete a node at a given position.
+9. **Count Nodes**: Count the number of nodes.
+10. **Search in List**: Search for a specific value.
+11. **Split List**: Split the circular list into two circular lists. && **Split Circular List into Halves**: Split into two equal or nearly equal parts.
+12. **Convert to Singly Linked List**: Convert the circular linked list to a singly linked list.
+
+13. **Convert to double Linked List**: Convert the circular linked list to a double linked list.
 
 ### Intermediate Questions
-1. **Insert at Specific Position**: Insert a node at a specified position.
-2. **Delete at Specific Position**: Delete a node at a given position.
-3. **Reverse Circular List**: Reverse the circular list.
-4. **Remove Duplicates**: Remove duplicate nodes from the list.
-5. **Check if List is Palindrome**: Check if the list forms a palindrome.
-6. **Nth Node from Start**: Find the nth node from the start.
-7. **Rotate List by K Nodes**: Rotate the circular list by `k` nodes.
-8. **Josephus Problem**: Solve the Josephus problem using a circular list.
-9. **Merge Two Circular Lists**: Merge two sorted circular linked lists.
-10. **Detect and Remove Loop**: Detect and remove the loop (redundant but still applicable for hybrid lists).
+1. **Reverse Circular List**: Reverse the circular list.
+2. **Remove Duplicates**: Remove duplicate nodes from the list.
+3. **Check if List is Palindrome**: Check if the list forms a palindrome.
+4. **Nth Node from Start**: Find the nth node from the start.
+5. **Rotate List by K Nodes**: Rotate the circular list by `k` nodes.
+6. **Josephus Problem**: Solve the Josephus problem using a circular list.
+7. **Merge Two Circular Lists**: Merge two sorted circular linked lists.
+8. **Detect and Remove Loop**: Detect and remove the loop (redundant but still applicable for hybrid lists).
 
 ### Advanced Questions
 1. **Flatten Circular Multilevel List**: Flatten a multilevel circular list with child pointers.
