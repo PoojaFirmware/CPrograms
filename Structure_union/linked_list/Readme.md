@@ -109,7 +109,6 @@ This guide provides a comprehensive list of interview questions focused on linke
 10. **Search in List**: Search for a specific value.
 11. **Split List**: Split the circular list into two circular lists. && **Split Circular List into Halves**: Split into two equal or nearly equal parts.
 12. **Convert to Singly Linked List**: Convert the circular linked list to a singly linked list.
-
 13. **Convert to double Linked List**: Convert the circular linked list to a double linked list.
 
 ### Intermediate Questions
