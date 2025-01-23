@@ -3,15 +3,15 @@
 This document provides a categorized list of various sorting programs implemented in C. It includes sorting tasks for different data structures and advanced concepts.
 
 ## String Sorting
-- Sort an array of strings alphabetically
-- Sort characters of a single string alphabetically
-- Sort a string array in descending order
-- Case-insensitive sorting of strings
-- Sort strings by length
+1. Sort an array of strings alphabetically
+2. Sort characters of a single string alphabetically
+3. Sort a string array in descending order and aescending order
+4. Case-insensitive sorting of strings
+5. Sort strings by length
 
 ## Character Sorting
-- Sort an array of characters (e.g., A-Z or a-z)
-- Sort characters in a single string alphabetically
+6. Sort an array of characters (e.g., A-Z or a-z)
+7. Sort characters in a single string alphabetically
 - Sort characters in a string ignoring case
 
 ## Array/Matrix Sorting
