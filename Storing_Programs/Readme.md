@@ -12,31 +12,27 @@ This document provides a categorized list of various sorting programs implemente
 ## Character Sorting
 6. Sort an array of characters (e.g., A-Z or a-z)
 7. Sort characters in a single string alphabetically
-- Sort characters in a string ignoring case
+8. Sort characters in a string ignoring case
 
 ## Array/Matrix Sorting
-- Sort a 2D matrix row-wise
-- Sort a 2D matrix column-wise
-- Sort a jagged array row-wise
-
-## Custom Data Types Sorting
-- Sort an array of structures (e.g., students by marks, employees by salary)
-- Sort a linked list (ascending/descending)
-- Sort a doubly linked list
-- Sort a circular linked list
+9. Sort a 2D matrix row-wise
+10. Sort a 2D matrix column-wise
+11. Sort a jagged array row-wise
 
 ## Hybrid and Specialized Sorting
-- Sort integers with only positive numbers
-- Sort integers with negative and positive numbers
+12. Sort integers with only positive numbers
+13. Sort integers with negative and positive numbers
 - Sort an array with duplicate elements
 - Sort an array with unique elements only
 - Sort a partially sorted array (nearly sorted)
 - Sort a rotated sorted array
 - Sort using a custom comparator function
 
-## Output Formatting
-- Print an array in sorted order
-- Print the alphabet in sorted order (A-Z or a-z)
+## Custom Data Types Sorting
+- Sort an array of structures (e.g., students by marks, employees by salary)
+- Sort a linked list (ascending/descending)
+- Sort a doubly linked list
+- Sort a circular linked list
 
 ## Advanced Concepts
 - Sort using Divide and Conquer
