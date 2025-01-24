@@ -22,20 +22,22 @@ This document provides a categorized list of various sorting programs implemente
 ## Hybrid and Specialized Sorting
 12. Sort integers with only positive numbers
 13. Sort integers with negative and positive numbers
-- Sort an array with duplicate elements
-- Sort an array with unique elements only
-- Sort a partially sorted array (nearly sorted)
+14. Sort an array with duplicate elements
+15. Sort an array with unique elements only
+- Sort a partially sorted array (nearly sorted) (After heap sort)
 - Sort a rotated sorted array
-- Sort using a custom comparator function
 
 ## Custom Data Types Sorting
-- Sort an array of structures (e.g., students by marks, employees by salary)
-- Sort a linked list (ascending/descending)
-- Sort a doubly linked list
-- Sort a circular linked list
+18. Sort an array of structures (e.g., students by marks, employees by salary)
+19. Sort a linked list (ascending/descending)
+20. Sort a doubly linked list
+21. Sort a circular linked list
 
 ## Advanced Concepts
 - Sort using Divide and Conquer
 - Stable vs. Unstable sorting (implement examples)
 - Comparison-based sorting vs. Non-comparison-based sorting
 - Sort a large dataset using external sorting (file-based sorting)
+
+## Theory question
+1. Sort using a custom comparator function 
