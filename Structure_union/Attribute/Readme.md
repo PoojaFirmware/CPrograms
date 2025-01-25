@@ -43,14 +43,14 @@
 
 - **Objective**: Control the memory alignment of union members.
 
-### 3. What happens if you use a `transparent_union` attribute? Demonstrate its usage with an example.
+### 3. Write a program to demonstrate how attributes in unions affect memory layout and size.
+
+- **Objective**: Investigate the size and memory layout of unions with attributes like `packed` and `aligned`.
+
+### 4. What happens if you use a `transparent_union` attribute? Demonstrate its usage with an example.
 
 - **Objective**: Understand the `transparent_union` attribute and how it affects union types.
 - **Example**: `__attribute__((transparent_union))`
-
-### 4. Write a program to demonstrate how attributes in unions affect memory layout and size.
-
-- **Objective**: Investigate the size and memory layout of unions with attributes like `packed` and `aligned`.
 
 ### 5. What are practical use cases of the `packed` attribute with unions? Provide a code example.
 
