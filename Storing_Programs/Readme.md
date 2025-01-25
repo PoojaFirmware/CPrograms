@@ -33,11 +33,10 @@ This document provides a categorized list of various sorting programs implemente
 20. Sort a doubly linked list
 21. Sort a circular linked list
 
-## Advanced Concepts
-- Sort using Divide and Conquer
-- Stable vs. Unstable sorting (implement examples)
-- Comparison-based sorting vs. Non-comparison-based sorting
-- Sort a large dataset using external sorting (file-based sorting)
-
 ## Theory question
 1. Sort using a custom comparator function 
+2. Sort using Divide and Conquer
+3. Stable vs. Unstable sorting (implement examples)
+4. Comparison-based sorting vs. Non-comparison-based sorting
+5. Sort a large dataset using external sorting (file-based sorting)
+
