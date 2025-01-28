@@ -68,17 +68,17 @@
 
 - **Objective**: Show how to apply both `aligned` and `packed` in a structure that includes a union.
 
-### 3. How can attributes be used to optimize memory usage in embedded systems? Write code for a structure and union that minimize memory waste.
-
-- **Objective**: Explore the use of attributes for efficient memory management in embedded systems.
-
-### 4. Write a program to create a network packet structure using a combination of `packed` attribute and unions to ensure memory efficiency.
+### 3. Write a program to create a network packet structure using a combination of `packed` attribute and unions to ensure memory efficiency.
 
 - **Objective**: Use `packed` and unions to define a memory-efficient structure for network packets.
 
-### 5. How do GCC-specific attributes (`__attribute__`) interact with structures and unions? Provide examples using `packed` and `aligned`.
+### 4. How do GCC-specific attributes (`__attribute__`) interact with structures and unions? Provide examples using `packed` and `aligned`.
 
-- **Objective**: Understand how GCC attributes affect memory layout and alignment of structures and unions.
+- **Objective**: Understand how GCC attributes affect memory layout and alignment of structures and unions. (Theory question)
+
+### 5. How can attributes be used to optimize memory usage in embedded systems? Write code for a structure and union that minimize memory waste.
+
+- **Objective**: Explore the use of attributes for efficient memory management in embedded systems.
 
 ---
 
