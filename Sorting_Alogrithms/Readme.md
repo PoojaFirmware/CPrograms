@@ -7,12 +7,12 @@ This document provides a list of common sorting algorithms implemented in C, cat
 2. **Selection Sort**
 3. **Insertion Sort**
 4. **Merge Sort**
-
 5. **Quick Sort**
 6. **Heap Sort**
 7. **Shell Sort**
 8. **Tim Sort**
 9. **Comb Sort**
+
 10. **Cocktail Shaker Sort**
 11. **Gnome Sort**
 12. **Tree Sort**
