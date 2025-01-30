@@ -13,41 +13,51 @@ This document provides a list of common sorting algorithms implemented in C, cat
 8. **Tim Sort**
 9. **Comb Sort**
 
+## 30 Jan
 10. **Cocktail Shaker Sort**
 11. **Gnome Sort**
 12. **Tree Sort**
+
 13. **Smoothsort**
 
 ## Non-Comparison-based Sorting Algorithms:
+## 31 Jan
 14. **Counting Sort**
 15. **Radix Sort**
 16. **Bucket Sort**
 17. **Pigeonhole Sort**
 
 ## Distribution-based Sorting Algorithms:
+## 1 feb
 18. **Flash Sort**
 19. **American Flag Sort**
 
 ## Hybrid Sorting Algorithms:
+## 1 feb
 20. **IntroSort**
 21. **Block Sort**
 
 ## Network-based Sorting Algorithms:
+## 2 feb
 22. **Bitonic Sort**
 23. **Odd-Even Sort**
 
 ## Parallel Sorting Algorithms:
+## 2 feb
 24. **Parallel Merge Sort**
 25. **Parallel Quick Sort**
+## 3 feb
 26. **Sample Sort**
 27. **Batcher's Sort**
 
 ## External Sorting Algorithms:
+## 3 feb
 28. **External Merge Sort**
 29. **Polyphase Merge Sort**
 30. **K-Way Merge Sort**
 
 ## Advanced Sorting Algorithms:
+## 4 feb
 31. **Patience Sort**
 32. **Stooge Sort**
 33. **Strand Sort**
