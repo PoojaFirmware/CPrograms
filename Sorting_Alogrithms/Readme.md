@@ -12,16 +12,12 @@ This document provides a list of common sorting algorithms implemented in C, cat
 7. **Shell Sort**
 8. **Tim Sort**
 9. **Comb Sort**
-
-## 30 Jan
 10. **Cocktail Shaker Sort**
 11. **Gnome Sort**
 12. **Tree Sort**
-
 13. **Smoothsort**
 
 ## Non-Comparison-based Sorting Algorithms:
-## 31 Jan
 14. **Counting Sort**
 15. **Radix Sort**
 16. **Bucket Sort**
