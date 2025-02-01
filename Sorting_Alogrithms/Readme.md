@@ -24,12 +24,10 @@ This document provides a list of common sorting algorithms implemented in C, cat
 17. **Pigeonhole Sort**
 
 ## Distribution-based Sorting Algorithms:
-## 1 feb
 18. **Flash Sort**
 19. **American Flag Sort**
 
 ## Hybrid Sorting Algorithms:
-## 1 feb
 20. **IntroSort**
 21. **Block Sort**
 
