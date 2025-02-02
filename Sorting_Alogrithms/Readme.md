@@ -32,17 +32,14 @@ This document provides a list of common sorting algorithms implemented in C, cat
 21. **Block Sort**
 
 ## Network-based Sorting Algorithms:
-## 2 feb
 22. **Bitonic Sort**
 23. **Odd-Even Sort**
 
 ## Parallel Sorting Algorithms:
-## 2 feb
 24. **Parallel Merge Sort**
 25. **Parallel Quick Sort**
-## 3 feb
-26. **Sample Sort**
-27. **Batcher's Sort**
+26. **Batcher's Sort**
+27. **Sample Sort**
 
 ## External Sorting Algorithms:
 ## 3 feb
