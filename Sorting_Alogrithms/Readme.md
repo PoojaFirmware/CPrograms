@@ -42,14 +42,12 @@ This document provides a list of common sorting algorithms implemented in C, cat
 27. **Sample Sort**
 
 ## External Sorting Algorithms:
-## 3 feb
 28. **External Merge Sort**
 29. **Polyphase Merge Sort**
 30. **K-Way Merge Sort**
 
 ## Advanced Sorting Algorithms:
-## 4 feb
 31. **Patience Sort**
-32. **Stooge Sort**
-33. **Strand Sort**
+32. **Strand Sort**
+33. **Stooge Sort**
 34. **Binary Insertion Sort**
