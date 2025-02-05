@@ -97,22 +97,22 @@ Bit manipulation is a powerful technique for optimizing code, especially when wo
 26. **Convert a decimal number to binary without using a built-in method**
     - **Hint**: Use division and modulus operations in a loop.
 
-28. **Check if a number is a multiple of 3 using bit manipulation**
+27. **Check if a number is a multiple of 3 using bit manipulation**
     - **Hint**: Sum bits in odd and even positions, check the difference.
 
-35. **Determine if a number is divisible by 4 using bit manipulation**
+28. **Determine if a number is divisible by 4 using bit manipulation**
     - **Hint**: Check the last two bits using `n & 3 == 0`.
 
-36. **Find the parity (even or odd number of 1s) of a number**
+29. **Find the parity (even or odd number of 1s) of a number**
     - **Hint**: XOR all bits and check the result.
 
-32. **Check if a number is a sparse number (no two consecutive 1s in binary representation)**
+30. **Check if a number is a sparse number (no two consecutive 1s in binary representation)**
     - **Hint**: Use `num & (num >> 1)`.
 
-30. **Find the largest power of two less than or equal to a given number**
+31. **Find the largest power of two less than or equal to a given number**
     - **Hint**: Use a technique to clear all bits except the most significant one.
 
-29. **Find the number of bits needed to convert one number to another**
+32. **Find the number of bits needed to convert one number to another**
     - **Hint**: XOR the two numbers and count the set bits.
     **Find the minimum number of bit flips required to convert `A` to `B`**
     - **Hint**: XOR `A` and `B`, then count the set bits.
@@ -120,31 +120,31 @@ Bit manipulation is a powerful technique for optimizing code, especially when wo
 33. **Count the number of trailing zeros in a binary number**
     - **Hint**: Use `num & -num` to isolate the rightmost set bit.
 
-41. **Calculate the logarithm base 2 of a number using bitwise operations**
+34. **Calculate the logarithm base 2 of a number using bitwise operations**
     - **Hint**: Count the shifts needed to reduce the number to 1.
 
-38. **Implement a function to swap all odd and even bits in an integer**
+35. **Implement a function to swap all odd and even bits in an integer**
     - **Hint**: Mask odd and even bits, shift and combine them.
 
----- 27. **Rotate bits of a number to the left or right**
+36. **Rotate bits of a number to the left or right**
     - **Hint**: Use shifts and `|` to wrap bits around.
 
-34. **Merge two numbers by combining their bits using bitwise operations**
+37. **Merge two numbers by combining their bits using bitwise operations**
     - **Hint**: Use shifts and masks to merge specific bit segments.
 
-37. **Find the closest integer with the same number of 1s in binary representation**
+38. **Find the closest integer with the same number of 1s in binary representation**
     - **Hint**: Swap the lowest set bit and the rightmost unset bit.
 
 39. **Generate all possible subsets of a set using bitwise manipulation**
     - **Hint**: Use the binary representation of numbers to represent subsets.
 
-42. **Create a function to count how many bits are set to 1 in an integer**
-    - **Hint**: Implement popcount using bitwise tricks.
+40. **Create a function to count how many bits are set to 1 in an integer**
+    - **Hint**: Implement popcount using bitwise tricks. -- "The PDF is available since it covers four methods we can use."
 
-43. **Implement a method to reverse only a portion of the bits within a number**
+41. **Implement a method to reverse only a portion of the bits within a number**
     - **Hint**: Mask the portion, reverse it, and merge back.
 
-44. **Subtract two numbers using only bitwise operations**
+42. **Subtract two numbers using only bitwise operations**
     - **Hint**: Use two’s complement and addition logic.
 
 ---
