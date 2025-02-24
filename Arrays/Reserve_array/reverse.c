@@ -1,5 +1,5 @@
 #include <stdio.h>
-void resverse(int arr[], int n)
+void reverse(int arr[], int n)
 {
     int temp;
     int start = 0;
@@ -23,7 +23,7 @@ void printarray(int arr[], int n)
     int i;
     for (i = 0; i < n; i++)
     {
-        printf("%d\n", arr[i]);
+        printf("%d ", arr[i]);
     }
     printf("\n");
 }
@@ -36,7 +36,7 @@ int main()
     printf("Original array\n");
     printarray(arr, n);
 
-    resverse(arr, n);
+    reverse(arr, n);
 
     printf("Resverse array\n");
     printarray(arr, n);
