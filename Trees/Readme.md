@@ -1,128 +1,80 @@
 # Tree Interview Questions in C
 
-This repository contains a comprehensive list of tree-based coding questions in C, designed to help you prepare for technical interviews. The questions range from basic to advanced levels and cover essential concepts, algorithms, and problem-solving techniques.
+## Basic Trees (Easy Level)
+### General Tree
+1. What is a tree data structure?
+2. How does a tree differ from a graph?
+3. What are the different types of trees in data structures?
+4. What are the applications of trees in computer science?
 
----
+### Binary Tree
+5. What is a binary tree?
+6. What are the properties of a binary tree?
+7. What is the difference between a full binary tree and a complete binary tree?
+8. What is a perfect binary tree?
+9. What is a balanced binary tree?
+10. What is a skewed tree? Explain left-skewed and right-skewed trees.
 
-## **Table of Contents**
-1. [Basic Level Questions](#basic-level-questions)
-2. [Intermediate Level Questions](#intermediate-level-questions)
-3. [Advanced Level Questions](#advanced-level-questions)
-4. [Preparation Tips](#preparation-tips)
+## Binary Search Tree (BST) (Medium Level)
+11. What is a Binary Search Tree (BST)?
+12. How do you insert a node in a BST?
+13. How do you delete a node in a BST?
+14. How do you search for an element in a BST?
+15. What are the time complexities of BST operations?
+16. What are the advantages and disadvantages of BST?
+17. How do you find the minimum and maximum elements in a BST?
+18. How do you find the height of a BST?
 
----
+## Advanced Trees (Hard Level)
+### AVL Tree
+19. What is an AVL tree? How does it maintain balance?
+20. What are the different types of rotations in an AVL tree?
 
-## **Basic Level Questions**
+### Red-Black Tree
+21. What is a Red-Black tree? What are its properties?
+22. How do you insert and delete nodes in a Red-Black tree?
 
-### 1. Tree Creation and Traversals
-- Create a binary tree.
-- Implement **Inorder**, **Preorder**, and **Postorder** traversals.
-- Perform **Level-order traversal** (Breadth-First Search).
+### B-Trees and B+ Trees
+23. What is a B-tree? Where is it used?
+24. What is a B+ tree? How does it differ from a B-tree?
 
-### 2. Binary Search Tree (BST) Operations
-- Insert a node into a BST.
-- Search for a value in a BST.
-- Find the minimum and maximum values in a BST.
-- Delete a node from a BST.
+### Trie
+25. How do you implement a Trie data structure in C?
+26. Write a C program to implement a Trie and perform insert and search operations.
 
-### 3. Height of a Tree
-- Write a function to calculate the height of a binary tree.
+### Splay Tree
+27. What is a Splay tree? How does it work?
 
-### 4. Count Nodes
-- Count:
-  - Total number of nodes.
-  - Number of leaf nodes.
-  - Number of non-leaf nodes.
+### Segment Tree
+28. What is a Segment tree? What are its applications?
 
-### 5. Mirror of a Tree
-- Create a mirror image of a binary tree.
+### Expression Tree
+29. How do you construct an expression tree from a postfix expression?
 
-### 6. Check if Two Trees are Identical
-- Compare two binary trees to determine if they are identical in structure and values.
+### Merkle Tree
+30. What is a Merkle tree? Where is it used?
 
----
+## Tree Traversal (All Levels)
+31. What are the different tree traversal techniques?
+32. How do you implement in-order traversal in C?
+33. How do you implement pre-order traversal in C?
+34. How do you implement post-order traversal in C?
+35. What is level-order traversal? How do you implement it in C?
+36. What is the difference between DFS and BFS in tree traversal?
+37. How do you count the number of nodes in a tree?
+38. How do you print all leaf nodes of a tree?
+39. How do you find the lowest common ancestor (LCA) of two nodes in a BST?
+40. How do you find the diameter of a binary tree?
+41. How do you serialize and deserialize a binary tree?
 
-## **Intermediate Level Questions**
-
-### 1. Check for Balanced Tree
-- Determine if a binary tree is height-balanced.
-
-### 2. Lowest Common Ancestor (LCA)
-- Find the Lowest Common Ancestor of two nodes in a binary tree.
-
-### 3. Check if a Tree is a BST
-- Verify if a binary tree satisfies the properties of a Binary Search Tree.
-
-### 4. Boundary Traversal
-- Print the boundary nodes of a binary tree in an anti-clockwise direction.
-
-### 5. Level-wise Node Printing
-- Print all nodes level by level, with each level on a new line.
-
-### 6. Vertical Order Traversal
-- Print nodes of a binary tree in vertical order.
-
-### 7. Diameter of a Tree
-- Calculate the diameter (longest path between any two nodes) of a binary tree.
-
-### 8. Find kth Smallest/Largest Element in BST
-- Retrieve the kth smallest or largest element in a Binary Search Tree.
-
----
-
-## **Advanced Level Questions**
-
-### 1. Serialize and Deserialize a Tree
-- Convert a binary tree into a string (serialize) and reconstruct it from the string (deserialize).
-
-### 2. Construct Tree from Traversals
-- Build a binary tree from:
-  - **Inorder and Preorder** traversals.
-  - **Inorder and Postorder** traversals.
-
-### 3. Binary Tree to Doubly Linked List
-- Convert a binary tree to a doubly linked list in-place.
-
-### 4. Path Sum Problems
-- Check if a root-to-leaf path exists with a given sum.
-- Print all root-to-leaf paths that sum to a specific value.
-
-### 5. Flatten Binary Tree to Linked List
-- Flatten a binary tree into a linked list in-place.
-
-### 6. Tree Diameter (Optimized Approach)
-- Calculate the diameter of a binary tree using a single DFS traversal.
-
-### 7. Maximum Path Sum
-- Find the maximum path sum in a binary tree.
-
-### 8. Binary Indexed Tree (Fenwick Tree)
-- Implement a Fenwick Tree for efficient range queries and updates.
-
-### 9. Check if Two Trees are Isomorphic
-- Determine if two binary trees can be transformed into each other by swapping left and right children.
-
-### 10. AVL Tree Implementation
-- Implement an AVL Tree with rotation logic for insertion and deletion.
-
----
-
-## **Preparation Tips**
-
-1. **Understand Tree Concepts**
-   - Master basic concepts like binary trees, binary search trees (BST), and AVL trees.
-
-2. **Focus on Traversals**
-   - Practice Inorder, Preorder, Postorder, and Level-order traversals as they form the basis of most problems.
-
-3. **Dynamic Memory Management**
-   - Be proficient with pointers, `malloc`, and `free` for creating and managing trees in C.
-
-4. **Optimize Solutions**
-   - Aim for efficient algorithms with clear time and space complexity analysis.
-
-5. **Edge Cases**
-   - Test your solutions for edge cases such as empty trees, single-node trees, and highly unbalanced trees.
-
----
+## Practical and Coding Questions
+42. Write a C program to implement a BST.
+43. Write a C program to implement in-order, pre-order, and post-order traversals.
+44. Write a C function to find the height of a binary tree.
+45. Write a C function to check if a binary tree is balanced.
+46. Write a C function to check if two trees are identical.
+47. Write a C program to convert a BST into a doubly linked list.
+48. Write a C function to find the kth smallest element in a BST.
+49. Write a C function to find the path from root to a given node in a binary tree.
+50. Write a C function to count the number of leaf nodes in a binary tree.
 
