@@ -30,6 +30,7 @@
 
 5. **Check if an Array is a Palindrome** : Implement a function to check if an array is a palindrome.
 
+
 6. **Count Occurrences of Each Element** : Write a function to count the occurrences of each element in an array.
 
 7. **Find the Second Largest Number** : Implement a function to find the second largest number in an array.
